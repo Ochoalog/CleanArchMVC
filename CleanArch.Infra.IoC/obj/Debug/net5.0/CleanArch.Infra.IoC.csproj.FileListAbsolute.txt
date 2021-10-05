@@ -1,0 +1,44 @@
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.deps.json
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.runtimeconfig.json
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.runtimeconfig.dev.json
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\ref\CleanArch.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.csproj.AssemblyReference.cache
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\ref\CleanArch.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.genruntimeconfig.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.deps.json
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.runtimeconfig.json
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.runtimeconfig.dev.json
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\ref\CleanArch.Infra.IoC.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\ref\CleanArch.Infra.IoC.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\curso_cleanarq\CleanArchMvc\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.genruntimeconfig.cache

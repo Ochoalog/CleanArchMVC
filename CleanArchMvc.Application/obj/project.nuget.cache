@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBpb3rb7QPPFJxur94LUi6ShmyGqXnrtqXsWsidAFVPCXpgfeWx/f5CGON7Sns21gepYd17D6hN/FPTUCa3LSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ochoavit\\OneDrive - SNEF BRASIL\\Documentos\\curso_cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ochoavit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ochoavit\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\ochoavit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ochoavit\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
